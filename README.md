@@ -6,5 +6,3 @@ It is important that credit card companies are able to recognize fraudulent cred
 5.	Bagging Classifier ( with base_estimator as DecisionTreeClassifier )
 6.	Adaboost Classifier ( with GridSearchCV)
 7.	Stacking Classifier ( with GradientBoostingClassifier & LogisticRegressor as estimators and XGB as the final estimator) 
-
-The best scorer was Logistic Regressor 
