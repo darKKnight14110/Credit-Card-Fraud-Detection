@@ -1,4 +1,4 @@
-# Credit Card Fraud Detection: A2 Copula vs. SMOTE
+# Credit Card Fraud Detection:
 
 ## 📌 Overview
 Fraud detection is a classic "needle in a haystack" problem. In this project, we analyze 284,807 European credit card transactions where only **492 (0.172%)** are fraudulent. 
